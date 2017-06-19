@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Push2Ember",
+  "description": "A push notification implementation for Fuse Prospectus",
+  "version": "1.0",
+  "short_name": "WMbot",
+  "icons": [
+
+  ],
+  "start_url": "/",
+  "gcm_sender_id": "103953800507"
+}
