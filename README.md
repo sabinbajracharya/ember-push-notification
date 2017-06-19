@@ -1,7 +1,9 @@
 # push-notification
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project is a reference on adding push notification to app based on EmberJS. In the same way the push notification can be implemented in any other frameworks.
+
+Push notification is supported by Firebase. So you need to add your own firebase configuration inside 
+* `/app/services/firebaseservice.js`
 
 ## Prerequisites
 
